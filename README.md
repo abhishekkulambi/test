@@ -1,2 +1,2 @@
 # test
-Python beginner projects
+Python projects
